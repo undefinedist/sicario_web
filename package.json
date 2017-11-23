@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "sicario_core": "^0.1.0"
+    "sicario_core": "^0.1.1"
   }
 }
