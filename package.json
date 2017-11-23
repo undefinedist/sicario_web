@@ -1,0 +1,17 @@
+{
+  "name": "sicario_web",
+  "lab": "lab.json",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "lab --pkg -d dist",
+    "start": "lab --pkg -wd dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sicario_core": "^0.1.0"
+  }
+}
